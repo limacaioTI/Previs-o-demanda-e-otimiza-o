@@ -1,0 +1,27 @@
+produto,preço,estoque,descontos,sazonalidade,demanda
+Produto A,50,100,10,0.8,200
+Produto B,30,150,5,0.6,250
+Produto C,20,200,15,0.7,180
+Produto D,40,120,8,0.9,220
+Produto E,25,180,12,0.5,210
+Produto F,35,110,7,0.4,190
+Produto G,45,140,9,0.6,230
+Produto H,28,170,11,0.7,240
+Produto I,33,130,6,0.8,215
+Produto J,55,190,14,0.9,225
+Produto K,60,80,10,0.5,195
+Produto L,48,90,8,0.3,205
+Produto M,37,160,12,0.8,180
+Produto N,23,170,15,0.6,260
+Produto O,29,140,9,0.7,210
+Produto P,42,200,5,0.4,270
+Produto Q,31,190,8,0.6,250
+Produto R,39,100,13,0.9,240
+Produto S,50,130,10,0.5,230
+Produto T,27,180,6,0.7,220
+Produto U,34,150,12,0.8,200
+Produto V,46,140,7,0.6,190
+Produto W,32,170,11,0.9,210
+Produto X,41,120,9,0.5,225
+Produto Y,24,110,14,0.6,195
+Produto Z,56,100,5,0.8,260
